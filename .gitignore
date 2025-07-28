@@ -181,3 +181,5 @@ cython_debug/
 # Operating System files
 **/.Trash*
 secrets.env
+
+_vizdoom.ini
